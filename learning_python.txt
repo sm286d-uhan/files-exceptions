@@ -1,3 +1,0 @@
-In Python you can write fun loops with for statements. 
-In Python you can branch using if-elif-else statements.
-In Python you can do lots of cool math with the numpy package. 
